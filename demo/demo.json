@@ -1,6 +1,7 @@
 [
   {
-    "filename": "dep1/dep2/demoEditor.js",
+    "path": "dep1/dep2/",
+    "filename": "demoEditor.js",
     "title": "Editor Demo"
   },
   {
