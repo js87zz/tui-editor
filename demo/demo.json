@@ -6,7 +6,7 @@
   },
   {
     "htmlFilePath": "/default.html",
-    "filePath": "/tableEditor.js",
+    "jsFilePath": "/tableEditor.js",
     "title": "Editor Table"
   }
 ]
