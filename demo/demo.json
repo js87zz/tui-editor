@@ -2,6 +2,7 @@
   {
     "htmlFilePath": "/default.html",
     "jsFilePath": "/dep1/dep2/demoEditor.js",
+    "cssFilePath": "/default.css",
     "title": "Editor Demo"
   },
   {
