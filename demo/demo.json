@@ -1,11 +1,12 @@
 [
   {
-    "path": "/dep1/dep2",
-    "filename": "demoEditor.js",
+    "htmlFilePath": "/default.html",
+    "jsFilePath": "/dep1/dep2demoEditor.js",
     "title": "Editor Demo"
   },
   {
-    "filename": "tableEditor.js",
+    "htmlFilePath": "/default.html",
+    "filePath": "/tableEditor.js",
     "title": "Editor Table"
   }
 ]
