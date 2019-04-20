@@ -1,7 +1,7 @@
 [
   {
     "htmlFilePath": "/default.html",
-    "jsFilePath": "/dep1/dep2demoEditor.js",
+    "jsFilePath": "/dep1/dep2/demoEditor.js",
     "title": "Editor Demo"
   },
   {
