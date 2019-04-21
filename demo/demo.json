@@ -9,5 +9,10 @@
     "htmlFilePath": "/default.html",
     "jsFilePath": "/tableEditor.js",
     "title": "Editor Table"
+  },
+  {
+    "htmlFilePath": "/default.html",
+    "jsFilePath": "/dep1/dep2/jQueryViewerEditor.js",
+    "title": "Viewer jQuery"
   }
 ]
